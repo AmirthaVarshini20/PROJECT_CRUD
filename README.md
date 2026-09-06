@@ -1,5 +1,5 @@
 # Project : CRUD Application Development using Bootstrap & Django
-## Date : 
+## Date : 2.09.2026
 ## AIM
 
 To develop a Django-based CRUD web application using Bootstrap to perform Create, Read, Update, and Delete operations on student records.
